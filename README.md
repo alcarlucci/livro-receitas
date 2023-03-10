@@ -2,6 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
- - Minha receita 1;
- - Minha receita 2;
+ - Minha receita 01;
+ - Minha receita 02;
 
